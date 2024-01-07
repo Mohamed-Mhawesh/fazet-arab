@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "72969960706",
+    "project_id": "fazet-arab",
+    "storage_bucket": "fazet-arab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72969960706:android:7852c541290c382491161b",
+        "android_client_info": {
+          "package_name": "com.fazetarab.fazet_arab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72969960706-fln4okmapae1vkq20vvminhq540m15e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazetarab.fazet_arab",
+            "certificate_hash": "2d505f1583589eed0bddc80ab742ab08bb469dc0"
+          }
+        },
+        {
+          "client_id": "72969960706-irvie4f4gbg0q6fv24ehcfhiu8ticlee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazetarab.fazet_arab",
+            "certificate_hash": "ea294241b355bdbfe17cbebc14c7addfbff29fc2"
+          }
+        },
+        {
+          "client_id": "72969960706-ndjp1hlv7tl21hi38bfhh9v0qsrbra3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazetarab.fazet_arab",
+            "certificate_hash": "f49b23b34e55c99dabaab57470a4f9d044657b6f"
+          }
+        },
+        {
+          "client_id": "72969960706-o8hbo9q7fum8gu7ldi1e643q5bao6q3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazetarab.fazet_arab",
+            "certificate_hash": "07f7bd5d8e041f3e36566ca003403e8b9ecaf8e3"
+          }
+        },
+        {
+          "client_id": "72969960706-48h7eu7nkj5l18hhf51rm9b3v19m0pnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcF-zgWmqAEZvm8rukynHcpZWG8WSqWSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72969960706-48h7eu7nkj5l18hhf51rm9b3v19m0pnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
